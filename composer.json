@@ -1,0 +1,18 @@
+{
+    "name": "rpmeir/tsystemproccesslog",
+    "description": "System proccess logger for Adianti Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rpmeir\\TSystemProccessLog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rodrigo Pires Meira"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
