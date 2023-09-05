@@ -1,5 +1,7 @@
 <?php
 
+namespace Rpmeir\TSystemProccessLog\Models;
+
 use Adianti\Database\TCriteria;
 use Adianti\Database\TFilter;
 use Adianti\Database\TRecord;

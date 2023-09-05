@@ -1,5 +1,7 @@
 <?php
 
+namespace Rpmeir\TSystemProccessLog\Models;
+
 use Adianti\Database\TRecord;
 use Adianti\Widget\Dialog\TMessage;
 

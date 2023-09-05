@@ -1,5 +1,7 @@
 <?php
 
+namespace Rpmeir\TSystemProccessLog\Controllers;
+
 use Adianti\Control\TAction;
 use Adianti\Database\TFilter;
 use Adianti\Registry\TSession;
