@@ -1,6 +1,6 @@
 <?php
 
-namespace Rpmeir\TSystemProccessLog\Controllers;
+namespace Rpmeir\TSystemProccessLog\App\Controllers;
 
 use Adianti\Control\TAction;
 use Adianti\Database\TFilter;
